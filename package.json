@@ -1,0 +1,17 @@
+{
+  "name": "rockkeeper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lebrancconvas/Rockkeeper.git",
+  "author": "lebrancconvas <lebranccconvas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "backpack-core": "^0.8.3",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "scripts": {
+    "dev": "backpack"
+  }
+}
